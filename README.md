@@ -1,0 +1,20 @@
+<html>
+<head>
+<body>
+<body bgcolor="A8A2A2">
+<center>
+<h1>ULTRA BEZOS 3000</h1></center>
+<p> The ULTRA BEZOS 3000 is the only product you need to get better habits, this product offers features such as built in sounds 
+to help you sleep better, and can limit screen time, and also has a setting where you can choose apps such as educational or work apps 
+that you need to do every day. After either doing sleeping well or limiting screen time, you will rewarded points to use Vouchers such as Amazon ONLY FOR $15.99! </p>
+<marquee behavior="alternate">
+<img src="spot_efd_dot_ring.png"   />
+<img src="spot_efd_dot_ring.png"   />
+<img src="spot_efd_dot_ring.png"   />
+</marquee>
+<center>
+<h2>Motivational quote for everyone</h2>
+<video controls src="1620.mp4" width="1000" length="600"></center>
+</body>
+</head>
+</html>
